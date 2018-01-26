@@ -1,5 +1,5 @@
 {
-    "manifest_version": 1,  
+    "manifest_version": 2,  
     "name": "0imgur",
     "description": "Unblock imgur.com with using 0.imgur.com instead.",
     "version": "1.0",  
