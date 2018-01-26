@@ -1,18 +1,20 @@
 {
-    "manifest_version": 2,  
-    "name": "0wiki",
-    "description": "This extension just replace wikipedia.org to 0wikipedia.org",
+    "manifest_version": 1,  
+    "name": "0imgur",
+    "description": "Unblock imgur.com with using 0.imgur.com instead.",
     "version": "1.0",  
     "browser_action": {
       "default_icon": "img/icon.png"      
     },    
-    "author":"Oğuzhan YILMAZ <aspsrc@gmail.com>",    
+    "author":"Selçuk Öztürk <mustafasozturk@gmail.com>",    
     "homepage_url": "https://github.com/c1982/0wiki",
     "permissions": [            
       "webRequest",
       "webRequestBlocking",      
       "*://wikipedia.org/*",
-      "*://*.wikipedia.org/*"
+      "*://*.wikipedia.org/*",
+      "*://imgur.com/*",
+      "*://*.imgur.com/*",
     ],
     "background": {"scripts": ["js/main.js"]}    
   }
