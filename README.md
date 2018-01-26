@@ -1,5 +1,5 @@
 # 0imgur
-This Chrome extensions just replace automatically wikipedia.org to 0wikipedia.org 
+An extension to unblock imgur.com with using 0.imgur.com instead
 
 ## Installation
 Either here or from Chrome Web Store
