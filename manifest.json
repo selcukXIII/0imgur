@@ -14,7 +14,7 @@
       "*://wikipedia.org/*",
       "*://*.wikipedia.org/*",
       "*://imgur.com/*",
-      "*://*.imgur.com/*",
-    ],
+      "*://*.imgur.com/*"
+    ]
     "background": {"scripts": ["js/main.js"]}    
   }
